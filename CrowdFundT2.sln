@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrowdFundT2", "CrowdFundT2\CrowdFundT2.csproj", "{258CB1A8-221D-47A3-9198-E4E1E2E7D295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrowdFundT2", "CrowdFundT2\CrowdFundT2.csproj", "{258CB1A8-221D-47A3-9198-E4E1E2E7D295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrowdFundT2.Core", "CrowdFundT2.Core\CrowdFundT2.Core.csproj", "{779EE3AF-4B65-49A6-AA0C-40BC8282FCD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{258CB1A8-221D-47A3-9198-E4E1E2E7D295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{258CB1A8-221D-47A3-9198-E4E1E2E7D295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{258CB1A8-221D-47A3-9198-E4E1E2E7D295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779EE3AF-4B65-49A6-AA0C-40BC8282FCD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779EE3AF-4B65-49A6-AA0C-40BC8282FCD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779EE3AF-4B65-49A6-AA0C-40BC8282FCD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779EE3AF-4B65-49A6-AA0C-40BC8282FCD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
